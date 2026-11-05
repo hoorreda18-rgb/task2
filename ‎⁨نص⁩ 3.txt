@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تقرير الذكاء الاصطناعي - تطبيقات الانترنت</title>
+</head>
+<body>
+    <h1>الذكاء الاصطناعي وتطبيقاته في العصر الحديث</h1>
+    <p><strong>اسم الطالبة:</strong> حور رضا</p>
+    <p><strong>الرقم الجامعي:</strong> اكتبي رقمك هنا</p>
+
+    <h2>المقدمة</h2>
+    <p>يعد <strong>الذكاء الاصطناعي</strong> واحداً من أهم الثورات التكنولوجية في العصر الحديث. وهو فرع من فروع علوم الحاسب يهدف إلى إنشاء أنظمة قادرة على <b>محاكاة الذكاء البشري</b> والتعلم واتخاذ القرارات.</p>
+    <p>أصبح الذكاء الاصطناعي جزءاً أساسياً من حياتنا اليومية من خلال تطبيقات مثل المساعدات الصوتية ومواقع التواصل الاجتماعي وأنظمة التوصية.</p>
+
+    <h2>عرض الموضوع</h2>
+    <h3>ما هو الذكاء الاصطناعي؟</h3>
+    <p>الذكاء الاصطناعي هو <strong>قدرة الآلة على تقليد القدرات الذهنية البشرية</strong> مثل التعلم والاستدلال وحل المشكلات.</p>
+
+    <h3>أهم تطبيقات الذكاء الاصطناعي</h3>
+    <p>يستخدم الذكاء الاصطناعي في مجالات عديدة ومتنوعة غيرت شكل العالم.</p>
+    
+    <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" alt="صورة تعبر عن الذكاء الاصطناعي" width="500">
+
+    <h3>جدول مقارنة بين أنواع الذكاء الاصطناعي</h3>
+    <table border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <th>النوع</th>
+            <th>الوصف</th>
+            <th>مثال</th>
+        </tr>
+        <tr>
+            <td>الذكاء الضيق</td>
+            <td>متخصص في مهمة واحدة</td>
+            <td>سيري - ChatGPT</td>
+        </tr>
+        <tr>
+            <td>الذكاء العام</td>
+            <td>يحاكي ذكاء الانسان بالكامل</td>
+            <td>لا يزال قيد البحث</td>
+        </tr>
+        <tr>
+            <td>التعلم الآلي</td>
+            <td>يتعلم من البيانات</td>
+            <td>أنظمة التوصية</td>
+        </tr>
+    </table>
+
+    <h2>المراجع</h2>
+    <ul>
+        <li><a href="https://www.ibm.com/think/topics/artificial-intelligence" target="_blank">IBM - What is Artificial Intelligence?</a></li>
+        <li><a href="https://ar.wikipedia.org/wiki/ذكاء_اصطناعي" target="_blank">ويكيبيديا - الذكاء الاصطناعي</a></li>
+        <li><a href="https://www.sas.com/ar_ae/insights/analytics/what-is-artificial-intelligence.html" target="_blank">SAS - دليل الذكاء الاصطناعي</a></li>
+    </ul>
+
+</body>
+</html>
